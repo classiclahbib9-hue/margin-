@@ -1,0 +1,5 @@
+{
+  "name": "5500",
+  "description": "A web application to track the buying and selling of laptops, manage inventory, and calculate profits. It functions like a specialized spreadsheet for your laptop resale business.",
+  "requestFramePermissions": []
+}
